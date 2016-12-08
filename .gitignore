@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Automated Test Framework (TDD and BDD)
+catch.hpp
