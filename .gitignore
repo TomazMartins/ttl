@@ -30,3 +30,6 @@
 
 # Automated Test Framework (TDD and BDD)
 catch.hpp
+
+# Build Directory
+build
